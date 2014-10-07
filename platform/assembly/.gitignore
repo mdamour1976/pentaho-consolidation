@@ -1,0 +1,7 @@
+/bin
+/kettle-plugins
+/${solution.dir.server}
+/plugins
+/solution-archives
+/dist
+/lib
